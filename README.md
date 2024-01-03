@@ -5,15 +5,20 @@ This project is a simple web-based tool that allows users to convert live video 
 ## Features
 
 - **Live Video to ASCII:** Capture live video from the user's camera and convert it into ASCII art on the fly.
-- **Adjustable Settings:** Users can customize the ASCII conversion settings, such as character set, font size, and contrast, to achieve different visual effects.
 - **Real-time Preview:** See the ASCII video conversion in real-time as the application processes each frame.
+
+## TODO
+
+- **Adjustable Settings:** Users can customize the ASCII conversion settings, such as character set, font size, and contrast, to achieve different visual effects.
+
+- **Colour Effects** User can choose a shade of colour for the ascii text to create various colour effect
 
 ## Technologies Used
 
 - **HTML:** The structure of the web page.
 - **CSS:** Styling and layout of the application.
 - **JavaScript:** Real-time video capture and ASCII conversion.
-- **p5 nad p5.sound library:** Access and capture video from the user's camera.
+- **p5 and p5.sound library:** Access and capture video from the user's camera.
 - **Canvas API:** Render the ASCII video on the web page.
 
 ## Installation
@@ -37,6 +42,6 @@ If you want to run the project locally, follow these steps:
 
 ## Special Mention
 
-- Special thanks to [Coding Train]() for inspiration.
+- Special thanks to [Coding Train](https://www.youtube.com/watch?v=55iwMYv8tGI) for inspiration.
 
 ---
