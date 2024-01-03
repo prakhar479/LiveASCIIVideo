@@ -28,13 +28,13 @@ If you want to run the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ascii-video-converter.git
+    git clonehttps://github.com/prakhar479/LiveASCIIVideo.git
     ```
 
 2. Open the project folder:
 
     ```bash
-    cd ascii-video-converter
+    cd LiveASCIIVideo
     ```
 
 3. open [index.html](./index.html) in your local browser and give video permissions and enjoy the live video feed in ASCII!
